@@ -9,7 +9,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Hello Lane!\n");
+    printf("Hello world, I'm Lane Vette!\n");
+    printf("My major is Electrical Engineering!\n");
 
     return 0;
 }
